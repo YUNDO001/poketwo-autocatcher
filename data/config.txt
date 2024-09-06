@@ -1,4 +1,4 @@
 {
-"user_token" : "USER TOKEN GOES HERE",
-"channel_id" : "CHANNEL ID GOES HERE"
+"user_token" : "OTQ3NzY5OTQyMzc0MjQ0MzYz.Gfon_d.fR3CZW0-BiQtyahmhGbFZrtNvk27JXRy8gk9YE",
+"channel_id" : "1276904788268679198"
 }
